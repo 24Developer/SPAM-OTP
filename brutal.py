@@ -32,7 +32,7 @@ merah="\033[1;91m"
 biru="\033[1;96m"
 
 os.system("clear")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel Fatih Arridho")
+autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe Channel YAN24")
 time.sleep(3)
 os.system("xdg-open https://www.youtube.com/channel/UC5xl9LhhmrVZh1yO7Yo6O2A")
 autoketik(f"{biru}[{kuning}Warning{biru}] {W}Jangan Lupa Subscribe")
